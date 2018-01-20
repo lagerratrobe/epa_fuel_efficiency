@@ -1,0 +1,53 @@
+Mappings from old (1978 - 1984) data fields to new ones
+
+class --> 
+displ --> 
+trans --> 
+cyl --> 
+trans.dscr --> 
+cty --> 
+hwy --> 
+fl --> 
+model --> 
+eng.dscr --> 
+eng.dscr.1 --> 
+year --> 
+manufacturer --> 
+twodoor.p --> 
+twodoor.l --> 
+fourdoor.p --> 
+fourdoor.l --> 
+hatch.p --> 
+hatch.l --> 
+T --> 
+G --> 
+drv --> 
+vpc --> 
+bidx --> 
+x5c --> 
+S --> 
+eng.dscr.2 --> 
+------------------------------------ scratch below -----------------------------------------
+mpg : miles per gallon
+class : car classification
+cty : city mpg
+cyl : # of cylinders
+displ : engine displacement in liters
+drv : f = front-wheel drive, r = rear wheel drive, 4 = 4wd
+fl : fuel (e = ethanol E85, d = diesel, r = regular, p = premium, c = CNG)
+hwy : highway mpg
+manufacturer : automobile manufacturer
+model : model of car
+trans : type of transmission
+year : model year
+
+barrels08,barrelsA08,charge120,charge240,city08,city08U,cityA08,cityA08U,cityCD,cityE,cityUF,co2,co2A,co2TailpipeAGpm,co2TailpipeGpm,comb08,comb08U,combA08,combA08U,combE,combinedCD,combinedUF,cylinders,displ,drive,engId,eng_dscr,feScore,fuelCost08,fuelCostA08,fuelType,fuelType1,ghgScore,ghgScoreA,highway08,highway08U,highwayA08,highwayA08U,highwayCD,highwayE,highwayUF,hlv,hpv,id,lv2,lv4,make,model,mpgData,phevBlended,pv2,pv4,range,rangeCity,rangeCityA,rangeHwy,rangeHwyA,trany,UCity,UCityA,UHighway,UHighwayA,VClass,year,youSaveSpend,guzzler,trans_dscr,tCharger,sCharger,atvType,fuelType2,rangeA,evMotor,mfrCode,c240Dscr,charge240b,c240bDscr,createdOn,modifiedOn,startStop,phevCity,phevHwy,phevComb
+12.207777777777778,0.0,0.0,0.0,24,24.005,0,0.0,0.0,0.0,0.0,330,-1,0.0,330.0,27,26.9237,0,0.0,0.0,0.0,0.0,4,2.5,All-Wheel Drive,8,,7,1400,0,Regular,Regular Gasoline,7,-1,32,31.6232,0,0.0,0.0,0.0,0.0,0,0,33609,0,15,Subaru,Legacy AWD,Y,false,0,103,0,0.0,0.0,0.0,0.0,Automatic (variable gear ratios),30.8809,0.0,45.5308,0.0,Midsize Cars,2014,0,,,,,,,,,FJX,,0.0,,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016,N,0,0,0
+
+13.73375,0.0,0.0,0.0,21,21.1067,0,0.0,0.0,0.0,0.0,372,-1,0.0,372.0,24,23.8995,0,0.0,0.0,0.0,0.0,4,2.5,All-Wheel Drive,7,,6,1550,0,Regular,Regular Gasoline,6,-1,29,28.5101,0,0.0,0.0,0.0,0.0,0,0,33671,0,15,Subaru,Legacy AWD,Y,false,0,103,0,0.0,0.0,0.0,0.0,Manual 6-spd,26.8,0.0,40.6,0.0,Midsize Cars,2014,-750,,,,,,,,,FJX,,0.0,,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016,N,0,0,0
+
+16.4805,0.0,0.0,0.0,18,17.6978,0,0.0,0.0,0.0,0.0,438,-1,0.0,438.0,20,20.2501,0,0.0,0.0,0.0,0.0,6,3.6,All-Wheel Drive,13,,5,1900,0,Regular,Regular Gasoline,5,-1,25,24.5833,0,0.0,0.0,0.0,0.0,0,0,33672,0,15,Subaru,Legacy AWD,Y,false,0,103,0,0.0,0.0,0.0,0.0,Automatic (S5),22.1338,0.0,34.5319,0.0,Midsize Cars,2014,-2500,,,,,,,,,FJX,,0.0,,Tue Jan 01 00:00:00 EST 2013,Mon Sep 26 00:00:00 EDT 2016,N,0,0,0
+
+11.36586206896552,0.0,0.0,0.0,26,25.8947,0,0.0,0.0,0.0,0.0,302,-1,0.0,302.0,29,29.3657,0,0.0,0.0,0.0,0.0,4,2.5,All-Wheel Drive,8,,7,1300,0,Regular,Regular Gasoline,7,-1,35,35.1193,0,0.0,0.0,0.0,0.0,0,0,35127,0,15,Subaru,Legacy AWD,Y,false,0,105,0,0.0,0.0,0.0,0.0,Automatic (AV-S6),33.5999,0.0,51.1996,0.0,Midsize Cars,2015,500,,,,,,,,,FJX,,0.0,,Thu Jun 19 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017,N,0,0,0
+
+14.330869565217391,0.0,0.0,0.0,20,19.7311,0,0.0,0.0,0.0,0.0,387,-1,0.0,387.0,23,22.8491,0,0.0,0.0,0.0,0.0,6,3.6,All-Wheel Drive,13,,5,1650,0,Regular,Regular Gasoline,5,-1,28,28.3185,0,0.0,0.0,0.0,0.0,0,0,35128,0,15,Subaru,Legacy AWD,Y,false,0,105,0,0.0,0.0,0.0,0.0,Automatic (AV-S6),24.9,0.0,40.3,0.0,Midsize Cars,2015,-1250,,,,,,,,,FJX,,0.0,,Thu Jun 19 00:00:00 EDT 2014,Wed Apr 05 00:00:00 EDT 2017,N,0,0,0
